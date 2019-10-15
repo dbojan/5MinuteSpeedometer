@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">speedometer</string>
+    <string name="initial_speed">0.0 km/h</string>
+</resources>
