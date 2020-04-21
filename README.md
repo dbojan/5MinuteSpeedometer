@@ -26,7 +26,7 @@ https://developer.android.com/reference/android/location/LocationManager.html#re
 Longer way is described in this video: https://youtu.be/ua4jY0lBvCA
 
 
---
+---
 How to install/binary file/apk file:
 Release page here: https://github.com/dbojan/5MinuteSpeedometer/releases
 
